@@ -13,6 +13,7 @@
 | Tool |  |  |  |
 | --- | --- | --- | --- |
 | [在线代码格式化](http://tool.oschina.net/codeformat/json) | [在线代码着色](http://tool.oschina.net/highlight) | [unix 时间戳](http://tool.chinaz.com/Tools/unixtime.aspx) | [代码在线运行](https://c.runoob.com/compile/1) |
+| [在线编码转换](http://tool.oschina.net/encode?type=3) | [HTTP 状态码](http://tool.oschina.net/commons?type=5) | [常见端口号](http://tool.oschina.net/commons?type=7) | [常用正则表达式](http://tool.oschina.net/regex) |
 
 | CSS |  |  |
 | --- | --- | --- |
