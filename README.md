@@ -19,7 +19,7 @@
 | [学习 CSS 布局](http://zh.learnlayout.com/toc.html) | [Flex 语法 - 阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) | [ColorPK - 色值](http://www.colorpk.com) |
 
 | JavaScript |  |
-| --- | --- | --- |
+| --- | --- |
 | [ES6 入门 - 阮一峰](http://es6.ruanyifeng.com) | [Promise 迷你书](http://liubin.org/promises-book/) |
 
 | webpack |  |  |
