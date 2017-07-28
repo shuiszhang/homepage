@@ -1,9 +1,9 @@
 ## 个人浏览器主页
 
 ## 阅读
-| 技术 |  |  |
-| --- | --- | --- |
-| [掘金](https://juejin.im/timeline) | [开发者头条](https://toutiao.io/) | [SegmentFault 头条](https://segmentfault.com/news) |
+| 技术 |  |  | |
+| --- | --- | --- | --- |
+| [掘金](https://juejin.im/timeline) | [开发者头条](https://toutiao.io/) | [SegmentFault 头条](https://segmentfault.com/news) | [Readhub](https://readhub.me/tech) |
 
 ## 前端
 | API |  |
