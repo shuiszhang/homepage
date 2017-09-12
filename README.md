@@ -1,15 +1,16 @@
 ## 个人浏览器主页
 
+## API
+| API |  |
+| --- | --- |
+| [DevDocs](https://devdocs.io/) | [MDN](https://developer.mozilla.org/zh-CN/) |
+
 ## 阅读
 | 技术 |  |  | |
 | --- | --- | --- | --- |
 | [掘金](https://juejin.im/timeline) | [开发者头条](https://toutiao.io/) | [SegmentFault 头条](https://segmentfault.com/news) | [Readhub](https://readhub.me/tech) |
 
 ## 前端
-| API |  |
-| --- | --- |
-| [DevDocs](https://devdocs.io/) | [MDN](https://developer.mozilla.org/zh-CN/) |
-
 | Tool |  |  |  |
 | --- | --- | --- | --- |
 | [在线代码格式化](http://tool.oschina.net/codeformat/json) | [在线代码着色](http://tool.oschina.net/highlight) | [unix 时间戳](http://tool.chinaz.com/Tools/unixtime.aspx) | [代码在线运行](https://c.runoob.com/compile/1) |
