@@ -27,3 +27,7 @@
 | webpack |  |  |
 | --- | --- | --- |
 | [webpack 中文文档](https://doc.webpack-china.org/configuration/) | [webpack 文集](https://github.com/webpack-china/awesome-webpack-cn) | [webpack 指南](https://webpack.toobug.net/zh-cn/) |
+
+| react | |
+| --- | --- |
+| [react router 中文文档](http://reacttraining.cn/web/guides/quick-start) | [redux 中文文档](http://cn.redux.js.org/index.html) |
