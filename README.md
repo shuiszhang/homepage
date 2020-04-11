@@ -6,9 +6,9 @@
 | [DevDocs](https://devdocs.io/) | [MDN](https://developer.mozilla.org/zh-CN/) |
 
 ## 阅读
-| 技术 |  |  | |
-| --- | --- | --- | --- |
-| [掘金](https://juejin.im/timeline) | [开发者头条](https://toutiao.io/) | [SegmentFault 头条](https://segmentfault.com/news) | [Readhub](https://readhub.me/tech) |
+| 技术 |  |  | | |
+| --- | --- | --- | --- | --- |
+| [掘金](https://juejin.im/timeline) | [开发者头条](https://toutiao.io/) | [SegmentFault 头条](https://segmentfault.com/news) | [Readhub](https://readhub.me/tech) | [政采云前端小报](https://weekly.zoo.team/) |
 
 ## 前端
 | Tool |  |  |  |
